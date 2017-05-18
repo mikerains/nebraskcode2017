@@ -1,4 +1,10 @@
 # AWS Servless Web App
+Darrin Lichty
+Panalogy
+
+## Source Code
+https://github.com/Panology/aws-serverless-website-workshop
+
 
 ## Tech Stack
 - API Gateway
@@ -36,6 +42,23 @@ https://www.npmjs.com/package/lambda-local
   make deploy - Deploy API Gateway endpoint
 - Static Content
   * make sync
+
+
+Using Cloud Formation, the deployment process is:
+1. ZIp the lambda
+2. Run stack that creates the bucket
+3. Upload zipfile to s3 Bucket - this is versioned, so the prior version is accessible and easy to rollback
+
+The "make sync" step uses a config.json that has the API endpoint hard-coded.  A better way might be to use a CNAME on the API GAteway.
+
+Gluing Cloud Fron to S3 uses OAI - Object Access Identity.  They needed a custom resource
+OAI: {
+      Type: "Custom::CloudFrontIdentity",
+        "Properties: {ServiceToken ...}
+},
+"staticContentPolicy: : "Type: Aws::S3::BucketPolicy"...
+
+PriceClass_100 this priceclass is lessexpensive and only serves North Ameruca
 
 
 

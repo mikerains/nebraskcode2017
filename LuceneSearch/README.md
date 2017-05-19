@@ -12,3 +12,7 @@ github.com/apache/lucenenet
 
 [Session slides](https://github.com/ifranto/modernsearch)
 
+[SOLR is an open source app built on lucene](http://lucene.apache.org/solr/)
+
+
+

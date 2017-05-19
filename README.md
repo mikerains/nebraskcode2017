@@ -91,3 +91,7 @@ http://focusagent.oedna.com/info/sponsor.html
 
 [Session notes](./LuceneSearch/ReADME.md)
 
+## Entity Framework 201-301
+
+[SessionNotes](./EF/README.md)
+

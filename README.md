@@ -3,6 +3,17 @@ Sessions
 
 # TO-Do, Take-away, Action Items
 
+## Java
+1. Work through the Sprint REST materials in:
+
+http://www.github.com/mike-plummer/intro-to-kotlin
+
+https://github.com/scottbock/boot-rest-demo
+
+https://start.spring.io
+
+
+
 ## .Net
 1. Set-up an STS (Thinktecture, see notes in ./jwt/README.md)
 2. Set up Authentication in Azure

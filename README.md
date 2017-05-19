@@ -5,6 +5,7 @@ Sessions
 
 ## Java
 1. Work through the Sprint REST materials in:
+Be sure to pay attention to Lombok attributes
 
 http://www.github.com/mike-plummer/intro-to-kotlin
 

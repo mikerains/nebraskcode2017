@@ -18,6 +18,17 @@ Sessions
 
 # THURSDAY
 
+# REST with Spring
+Scottbock.github.io
+
+https://github.com/scottbock/boot-rest-demo
+
+https://start.spring.io
+
+JPA, Rest Repositories, H2, Lombok
+
+H2 is in-memory database
+
 ## AWS Servless Web Application
 Thursday May 18 1:00pm 
 Darrin Lichty, Panology Tech Solutions
@@ -26,8 +37,6 @@ Darrin Lichty, Panology Tech Solutions
 2:15PM Thursday
 Mike Douglas, Deviron Consulting, Omaha
 
-## Web Api - Lee Brandt
-https://github.com/leebrandt/WebApiCore
 
 ## Why You should Build Mobile in React Native
 

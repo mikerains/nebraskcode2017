@@ -35,6 +35,12 @@ http://www.reactnative.com/
 
 https://facebook.github.io/react-native/docs/getting-started.html#content
 
+## Web Api - Lee Brandt
+
+https://github.com/leebrandt?tab=repositories
+[Web Api in ASP.Net Core](https://github.com/leebrandt/WebApiCore)
+
+
 # FRIDAY
 
 ## Build 2 Player Game in React Redux

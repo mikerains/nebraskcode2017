@@ -26,6 +26,9 @@ https://start.spring.io
 3. ReactJS that authenticates and make a authorized HTTP Request
 4. Make a React Native mobile app that authenticates and issues an authorized reequest
 
+## Guitar zoom
+
+
 
 
 # THURSDAY
@@ -80,4 +83,11 @@ http://focusagent.oedna.com/info/sponsor.html
 [Session Notes](./jwt/README.md)
 
 
+## ASP.Net Core MVC and React
+
+[Session Notes](./AspNetCoreAndReact/RWADME.md)
+
+## Lucene.Net
+
+[Session notes](./LuceneSearch/ReADME.md)
 

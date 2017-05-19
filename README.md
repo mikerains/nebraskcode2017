@@ -1,6 +1,21 @@
 # nebraskcode2017
 Sessions
 
+# TO-Do, Take-away, Action Items
+
+## .Net
+1. Set-up an STS (Thinktecture, see notes in ./jwt/README.md)
+2. Set up Authentication in Azure
+
+
+## AWS 
+1. Set-up an OpenID Provider in AWS
+2. Lambda Function that uses OpenID
+3. ReactJS that authenticates and make a authorized HTTP Request
+4. Make a React Native mobile app that authenticates and issues an authorized reequest
+
+
+
 # THURSDAY
 
 ## AWS Servless Web Application

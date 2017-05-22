@@ -23,3 +23,5 @@ onModelVCreating(DbModelBuilder modelBuilder) {
 
 [rEVERSE poco gENERATOR](https://github.com/sjh37/EntityFramework-Reverse-POCO-Code-First-Generator)
 
+[Asp.Net MVC Core and EF Core](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/)
+

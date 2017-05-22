@@ -1,5 +1,5 @@
 # nebraskcode2017
-Sessions
+[Nebrask Code 2017 - Amegala Site](https://nebraskacode.amegala.com/)
 
 # TO-Do, Take-away, Action Items
 
@@ -34,15 +34,12 @@ https://start.spring.io
 # THURSDAY
 
 # REST with Spring
-Scottbock.github.io
+[Session Notes]{./SpringREST/README.md)}
 
-https://github.com/scottbock/boot-rest-demo
+# Powershell For Developers
+[Session Notes](./Powershell/README.md)
 
-https://start.spring.io
 
-JPA, Rest Repositories, H2, Lombok
-
-H2 is in-memory database
 
 ## AWS Servless Web Application
 Thursday May 18 1:00pm 

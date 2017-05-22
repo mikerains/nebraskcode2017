@@ -9,9 +9,19 @@ http://bit.ly/2qMsdNd
 
 https://jwt.io
 
+[JWT Debugger](https://jwt.io/#debugger)
+[Chrome JWT Debugger](https://chrome.google.com/webstore/detail/jwt-debugger/ppmmlchacdbknfphdeafcbmklcghghmd)
+
+[JWT Validation and Authorization in ASP.Net Core](https://blogs.msdn.microsoft.com/webdev/2017/04/06/jwt-validation-and-authorization-in-asp-net-core/)
+
+
 https://auth0.com
 
 https://tools.ietf.org/html/rfc7519
+
+[Presentation - Generating a JWT](http://focusagent.oedna.com/info/signing.html)
+
+
 
 
 JWT : {

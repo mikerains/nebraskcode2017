@@ -107,3 +107,61 @@ Lee Brandt
 
 [SessionNotes](./EF/README.md)
 
+
+# Other useful links
+
+## Nothing to do with presentation, these are topical interest that I don't want to forget about.  These are in Chrome Bookmarks and probably in Architect TODO at
+[TechRadar for Mike Rains](https://docs.google.com/document/d/1p5zTJStRdi8D9BtBNOmaZkazPHnhA9hcPCRc3L0gRx0/edit)
+
+## Angular CLI
+[HttpClient - Sample Hero's App, Observables and more](https://angular.io/docs/ts/latest/guide/server-communication.html)
+
+### Fun With Observables
+
+https://angular.io/docs/ts/latest/guide/server-communication.html#!#more-observables
+
+### Guarding against Cross-Site Request Forgery
+
+https://angular.io/docs/ts/latest/guide/server-communication.html#!#xsrf
+
+## AOT - Ahead Of TIme compilation for Angular 2
+
+https://mike-plummer.github.io/ahead-of-time-compilation-with-angular/
+
+
+
+
+## ES6
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Object_literals
+
+https://github.com/lukehoban/es6features#arrows
+
+### Async Function Primer
+
+https://developers.google.com/web/fundamentals/getting-started/primers/async-functions
+
+## ES6 Modules
+
+https://hacks.mozilla.org/2015/08/es6-in-depth-modules/
+
+
+## What's New in C# 7
+
+https://docs.microsoft.com/en-us/dotnet/articles/csharp/whats-new/csharp-7
+
+
+## ASP.Net Core and EF
+
+https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/
+
+https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/new-db
+
+[InMemory Ddatabase](https://docs.microsoft.com/en-us/ef/core/providers/in-memory/)
+
+[Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
+
+
+

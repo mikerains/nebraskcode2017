@@ -12,6 +12,10 @@ https://github.com/ArchitectNow
 
 [Uses beer api at PunkApi.com](https://punkapi.com/)
 
+Then it runs at http://localhost:4201/beers
+
+
+
 Notes about Sample App
 BeerApiService demonstrates rxjs
 beer-list.component.ts demonstrates onInit

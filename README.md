@@ -28,6 +28,17 @@ https://start.spring.io
 
 ## Guitar zoom
 
+# Wednesday 
+
+## Workshop - Angular 2
+[Session Notes](./Angular2Workshop/README.md)
+
+## Zombie Workshop on AWS Lambda Functions
+[Github Lab](https://github.com/Panology/aws-lambda-zombie-workshop)
+
+
+
+
 
 
 

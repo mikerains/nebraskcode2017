@@ -18,9 +18,8 @@ Then it runs at http://localhost:4201/beers
 BeerApiService demonstrates rxjs
 beer-list.component.ts demonstrates onInit
 
-[Angular 4 Related Resource List from kevin](http://architectnow.net/angular-resources) - these are resources the ArchitecNow teams use.
-
 ## Angular 4 Features 
+[Angular 4 Related Resource List from kevin](http://architectnow.net/angular-resources) - these are resources the ArchitecNow teams use.
 
 ### Topics
 

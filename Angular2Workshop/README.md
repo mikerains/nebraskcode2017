@@ -14,18 +14,19 @@ https://github.com/ArchitectNow
 
 Then it runs at http://localhost:4201/beers
 
-
-
-Notes about Sample App
+### Notes about Sample App
 BeerApiService demonstrates rxjs
 beer-list.component.ts demonstrates onInit
 
-### Angular 4 Features 
+[Angular 4 Related Resource List from kevin](http://architectnow.net/angular-resources) - these are resources the ArchitecNow teams use.
+
+## Angular 4 Features 
+
+### Topics
 
 [Lazy Loading Modules](https://angular.io/docs/ts/latest/guide/ngmodule.html#!#lazy-load)
 
 [Angular Http Module](https://angular.io/docs/ts/latest/guide/server-communication.html)
-
 
 ## Angular CLI
 
@@ -39,7 +40,7 @@ https://github.com/angular/angular-cli/wiki/eject
 
 
 ## Other usefule source code
-
+This is some selecte ditems from kvgros' github, but not specifically referenced in the workshop.
 https://github.com/ArchitectNow/ng2-demo
 
 [Boilerplate Project](https://github.com/kvgros/ArchitectNow.Boilerplate.Angular2.git)
